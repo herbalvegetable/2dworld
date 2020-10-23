@@ -1,5 +1,5 @@
 //let socket = io.connect('http://localhost:5000/');
-let socket = io.connect('https://.herokuapp.com/');//change
+let socket = io.connect('https://world2d.herokuapp.com/');//change
 
 let canvas = document.getElementById('canvas');
 const ctx = canvas.getContext('2d');
