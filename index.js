@@ -21,10 +21,10 @@ class Grid{
 	static l = 50;
 	static typeNum = null;
 	static typeList = [ // 0 - NOT selectable by player, 1 - IS selectable by player
-		['air', 0], 
-		['wall', 1], 
-		['mud', 1], 
-		['booster', 1], 
+		['air', 0],
+		['wall', 1],
+		['mud', 1],
+		['booster', 1],
 		['gateClosed', 1],
 		['gateOpen', 0],
 		['pressurePlate', 1],
